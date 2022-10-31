@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  *
- * @author TuanAnh
+ * @author TheAnh
  */
 @Controller
 public class HomeController {
